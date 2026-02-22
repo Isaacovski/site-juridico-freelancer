@@ -46,9 +46,11 @@ Este projeto faz parte do meu portfólio como desenvolvedor freelancer, demonstr
 
 ---
 
-## 📷 Preview
+## 📷 Preview/acesso
 
 *(Adicionar print do site ou link para visualização online aqui)*
+
+https://isaacovski.github.io/site-juridico-freelancer/
 
 ---
 
