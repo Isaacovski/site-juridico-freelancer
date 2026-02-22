@@ -48,8 +48,9 @@ Este projeto faz parte do meu portfólio como desenvolvedor freelancer, demonstr
 
 ## 📷 Preview/acesso
 
-*(Adicionar print do site ou link para visualização online aqui)*
+<img width="879" height="444" alt="Capturar" src="https://github.com/user-attachments/assets/73401e8e-fc42-441e-9053-07dc4f0e2001" />
 
+## 🔗 Acesse o site:
 https://isaacovski.github.io/site-juridico-freelancer/
 
 ---
